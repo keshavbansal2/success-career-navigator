@@ -1,0 +1,77 @@
+{
+  "_comment": "Synthetic sample career profiles for testing and demonstration. All names, companies, and GitHub URLs are fictional.",
+  "profiles": [
+    {
+      "id": "profile_001",
+      "name": "Alex Johnson",
+      "target_role": "Data Scientist",
+      "resume_text": "Name: Alex Johnson\nEducation: B.S. Computer Science, State University (2022)\nExperience: 1 year as Junior Developer at TechCorp\n\nSkills:\n- Python (intermediate)\n- JavaScript/React (beginner)\n- SQL\n- Git\n- Linux basics\n- Docker (basics)\n\nProjects:\n- Built a REST API with Flask\n- Created a simple React todo app\n- Automated some data processing scripts with Python\n\nCertifications: None yet",
+      "github_url": "https://github.com/alexjohnson-synthetic",
+      "expected_readiness_range": [20, 45],
+      "description": "Junior developer transitioning to Data Science with limited ML experience."
+    },
+    {
+      "id": "profile_002",
+      "name": "Maria Chen",
+      "target_role": "Cloud Engineer",
+      "resume_text": "Name: Maria Chen\nEducation: M.S. Computer Engineering, Tech Institute (2021)\nExperience: 3 years as DevOps Engineer at CloudSoft Inc.\n\nSkills:\n- AWS (EC2, S3, Lambda, CloudFormation)\n- Docker and Docker Compose\n- Kubernetes (kubectl, Helm)\n- Terraform for infrastructure as code\n- CI/CD with GitHub Actions and Jenkins\n- Python and Bash scripting\n- Linux system administration\n- Prometheus and Grafana monitoring\n- Networking (VPC, DNS, load balancers)\n\nProjects:\n- Migrated monolith to microservices on AWS EKS\n- Set up GitOps pipeline with ArgoCD\n- Reduced infrastructure costs by 35% using FinOps practices\n\nCertifications: AWS Solutions Architect Associate, CKA",
+      "github_url": "https://github.com/mariachen-synthetic",
+      "expected_readiness_range": [75, 95],
+      "description": "Experienced DevOps engineer with strong cloud and IaC skills."
+    },
+    {
+      "id": "profile_003",
+      "name": "Jordan Rivera",
+      "target_role": "Frontend Developer",
+      "resume_text": "Name: Jordan Rivera\nEducation: B.A. Graphic Design, Arts College (2023)\nExperience: 6 months freelance web design\n\nSkills:\n- HTML and CSS (strong)\n- JavaScript (basic)\n- Figma and Adobe XD\n- Responsive design\n- WordPress\n\nProjects:\n- Designed and built 5 freelance portfolio websites\n- Created a personal blog with WordPress\n\nCertifications: freeCodeCamp Responsive Web Design",
+      "github_url": null,
+      "expected_readiness_range": [15, 40],
+      "description": "Designer transitioning to frontend dev; knows HTML/CSS but lacks JS framework experience."
+    },
+    {
+      "id": "profile_004",
+      "name": "Sam Patel",
+      "target_role": "Machine Learning Engineer",
+      "resume_text": "Name: Sam Patel\nEducation: Ph.D. Statistics, Research University (2020)\nExperience: 4 years as Data Scientist at AnalyticsCo\n\nSkills:\n- Python (expert: pandas, numpy, scikit-learn, matplotlib)\n- Machine learning: classification, regression, clustering, deep learning\n- TensorFlow and PyTorch\n- SQL and data warehousing\n- Statistics and probability\n- R programming\n- Jupyter Notebooks\n- Git\n\nProjects:\n- Trained NLP model for sentiment analysis (BERT fine-tuning)\n- Built recommender system using collaborative filtering\n- Deployed ML model as REST API with Flask\n\nCertifications: Deep Learning Specialization (Coursera)",
+      "github_url": "https://github.com/sampatel-synthetic",
+      "expected_readiness_range": [55, 80],
+      "description": "Senior data scientist strong in ML fundamentals; needs MLOps and deployment skills."
+    },
+    {
+      "id": "profile_005",
+      "name": "Taylor Nguyen",
+      "target_role": "Full Stack Developer",
+      "resume_text": "Name: Taylor Nguyen\nEducation: B.S. Information Technology, Community College (2021)\nExperience: 2 years as Full Stack Developer at StartupXYZ\n\nSkills:\n- JavaScript and TypeScript\n- React with Redux and React Query\n- Node.js and Express\n- PostgreSQL and MongoDB\n- REST API design and development\n- JWT authentication\n- HTML/CSS with Tailwind\n- Git and GitHub\n- Docker basics\n- Jest for unit testing\n\nProjects:\n- Built e-commerce platform with React/Node/PostgreSQL (500+ users)\n- Created real-time chat app using WebSockets\n- Deployed apps to AWS using EC2 and S3\n\nCertifications: AWS Cloud Practitioner",
+      "github_url": "https://github.com/taylornguyen-synthetic",
+      "expected_readiness_range": [60, 85],
+      "description": "Solid full-stack developer with good frontend/backend coverage."
+    },
+    {
+      "id": "profile_006",
+      "name": "Casey Morgan",
+      "target_role": "Cybersecurity Analyst",
+      "resume_text": "Name: Casey Morgan\nEducation: B.S. Computer Science, State University (2022)\nExperience: 1 year as IT Support Technician at MegaCorp\n\nSkills:\n- Windows and Linux administration\n- Networking basics (TCP/IP, DNS, HTTP)\n- Python scripting\n- Git\n- Basic SQL\n\nProjects:\n- Set up home lab with pfSense firewall\n- Completed TryHackMe SOC Level 1 path\n- CTF participant (PicoCTF, HackTheBox beginner rooms)\n\nCertifications: CompTIA Security+ (in progress)",
+      "github_url": null,
+      "expected_readiness_range": [20, 45],
+      "description": "IT support transitioning to cybersecurity; has foundational knowledge but lacks professional security ops experience."
+    },
+    {
+      "id": "profile_007",
+      "name": "Riley Kim",
+      "target_role": "Data Engineer",
+      "resume_text": "Name: Riley Kim\nEducation: M.S. Computer Science, Tech University (2019)\nExperience: 5 years as Software Engineer and Data Engineer at BigDataCo\n\nSkills:\n- Python (expert) and Scala\n- Apache Spark (PySpark) and Hadoop\n- Apache Kafka and Kinesis for streaming\n- Apache Airflow for pipeline orchestration\n- SQL, PostgreSQL, and dbt\n- Snowflake and BigQuery\n- AWS (S3, Glue, Redshift, EMR)\n- Docker and Kubernetes\n- Data modeling and ETL/ELT design\n- Git and CI/CD\n\nProjects:\n- Built real-time fraud detection pipeline processing 1M events/day\n- Migrated 50TB data warehouse from on-prem to Snowflake\n- Implemented data quality framework with Great Expectations\n\nCertifications: Databricks Certified Associate Developer for Apache Spark",
+      "github_url": "https://github.com/rileykim-synthetic",
+      "expected_readiness_range": [80, 95],
+      "description": "Experienced data engineer with comprehensive big data and cloud data stack knowledge."
+    },
+    {
+      "id": "profile_008",
+      "name": "Drew Sullivan",
+      "target_role": "Product Manager",
+      "resume_text": "Name: Drew Sullivan\nEducation: MBA, Business School (2020); B.S. Psychology (2017)\nExperience: 3 years as Product Manager at ProductCo, 2 years as Business Analyst\n\nSkills:\n- Product strategy and roadmap planning\n- User research and customer interviews\n- Agile/Scrum (certified Scrum Product Owner)\n- A/B testing and experimentation\n- Data analysis with SQL and Tableau\n- Stakeholder management and cross-functional leadership\n- Jira and Confluence\n- Wireframing with Figma\n- Market analysis and competitive research\n\nProjects:\n- Led launch of mobile app feature that increased DAU by 25%\n- Ran 50+ A/B tests using Optimizely\n- Managed $2M product budget\n\nCertifications: CSPO, Google Analytics",
+      "github_url": null,
+      "expected_readiness_range": [70, 90],
+      "description": "Experienced product manager with strong user research and data skills."
+    }
+  ]
+}
