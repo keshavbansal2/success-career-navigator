@@ -13,8 +13,10 @@ A full-stack AI-powered career navigation platform that helps students and early
 ## Tech Stack
 
 - **Frontend**: React + Vite + TypeScript + Tailwind CSS + React Router
-- **Backend**: Python FastAPI + Uvicorn
+- **Backend**: Python FastAPI + Uvicorn + SQLAlchemy
 - **AI**: Anthropic Claude (claude-sonnet-4-6)
+- **Auth**: JWT-based authentication with bcrypt password hashing
+- **Database**: SQLite (local dev) — easily swappable to PostgreSQL
 
 ---
 
