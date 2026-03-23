@@ -6,3 +6,6 @@ pydantic[email]
 sqlalchemy
 passlib[bcrypt]
 python-jose[cryptography]
+httpx
+pytest
+pytest-asyncio
