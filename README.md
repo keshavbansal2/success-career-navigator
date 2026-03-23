@@ -146,3 +146,14 @@ success_career_navigator/
 ├── docker-compose.yml
 └── README.md
 ```
+
+---
+
+## Roadmap
+
+- [ ] Resume PDF upload support
+- [ ] LinkedIn profile import
+- [ ] Job market trends integration
+- [ ] Peer comparison analytics
+- [ ] Email notifications for learning milestones
+- [ ] Mobile-responsive improvements
